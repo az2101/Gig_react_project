@@ -1,0 +1,31 @@
+.gig-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+.gig-band-name {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.gig-band-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.gig-description {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.gig-time-date,
+.gig-location {
+    font-size: 14px;
+    color: #555;
+}
